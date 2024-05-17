@@ -1,0 +1,27 @@
+form{
+    margin: 2px;
+}
+.is-error{
+    border-color: red;
+}
+
+input{
+    width: auto;
+}
+
+.login{
+    margin-left: 55px;
+    width: auto;
+    padding: 4px 10px;
+    border-radius: 2px;
+    font-weight: 400;
+    font-size: 18px;
+}
+
+
+.error-txt{
+    font-size: 12px;
+    margin: 0;
+    padding: 30px 0 0 30px;
+    color: red;
+}
